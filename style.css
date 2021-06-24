@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: deeppink;
+    color: aqua;
+    border: dotted;
+}
+section{
+    background-color: aqua;
+    color: crimson;
+    border: dotted;
+}
+h4{
+    font-size: 50px;
+}
+h5{
+    font-size: 50px;
+}
+h6{
+    font-size: 50px;
+}
+
+
